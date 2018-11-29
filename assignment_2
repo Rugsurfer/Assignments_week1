@@ -1,0 +1,10 @@
+names = ['peter', 'mary', 'jane']
+location = ['stockholm', 'goteborg', 'helsingborg']
+
+
+
+for index in range(len(names)):
+    print(names[index], location[index])
+    
+    
+    
